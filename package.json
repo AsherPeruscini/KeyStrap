@@ -1,23 +1,34 @@
 {
-  "name": "codeomnitrix.bootstrap-snippets",
-  "title": "Bootstrap 3 Snippets",
-  "description": "Add Bootstrap 3 HTML5 Snippets to your page by hitting Ctrl-Shift keys with designated snippets eg. P for panel etc.",
-  "homepage": "https://github.com/codeomnitrix/bootstrap-snippets",
+  "name": "asherperuscini.KeyStrap",
+  "title": "Bootstrap 3+ Keyboard Shortcode Snippets",
+  "description": "Add Bootstrap 3 HTML5 Snippets to your page by hitting keyboard key-combos.",
+  "homepage": "https://github.com/AsherPeruscini/KeyStrap",
   "version": "0.1.0",
-  "author": "Vinit Tiwari (https://github.com/codeomnitrix)",
+  "author": "Asher Peruscini (https://github.com/AsherPeruscini/KeyStrap)",
   "license": "MIT",
   "engines": {
-    "brackets": ">=0.37.0"
+  	"brackets": ">=0.37.0"
   },
   "keywords": [
-    "Bootstrap",
-    "Bootstrap 3",
-    "Bootstrap Snippets",
-    "Snippets",
-    "HTML",
-    "device",
-    "screen",
-    "html",
-    "HTML Document"
+	"Bootstrap",
+	"Bootstrap 3",
+	"Bootstrap Snippets",
+	"Snippets",
+	"HTML",
+	"device",
+	"screen",
+	"html",
+	"HTML Document"
+	"KeyStrap"
+	"getKeyStrap"
+	"bootstrap keyboard shortcut"
+	"bootstrap keyboard shortcuts"
+	"bootstrap keyboard shortcodes"
+	"bootstrap keyboard short codes"
+	"bootstrap keyboard short codes"
+	"keyboards shortcuts"
+	"keyboards shortcut keys"
+	"keyboards shortcodes"
+	"keyboards short codes"
   ]
 }
