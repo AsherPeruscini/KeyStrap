@@ -11,11 +11,11 @@ In testing a found a few Bracket extensions that conflict with my keyboard short
 2. Download straight from GitHub using [https://github.com/AsherPeruscini/KeyStrap/archive/master.zip](https://github.com/AsherPeruscini/KeyStrap/archive/master.zip)
 
 ## Directions ##
-* Ctrl + Shift + C > container <div>
-* Ctrl + Shift + Alt + C > fluid container <div>
-* Ctrl + Shift + R > row <div>
-* Ctrl + Shift + Alt + R > fluid row <div>
-* Ctrl + Shift + S > <section></section>
+* Ctrl + Shift + Alt + F1 > container <div>
+* Ctrl + Shift + Alt + F2 > fluid container <div>
+* Ctrl + Shift + Alt + F3 > row <div>
+* Ctrl + Shift + Alt + F4 > fluid row <div>
+* Ctrl + Shift + Alt + F5 > <section></section>
 * Ctrl + F1 > col-xs-1 <div>
 * Ctrl + F2 > col-xs-2 <div>
 * Ctrl + F3 > col-xs-3 <div>

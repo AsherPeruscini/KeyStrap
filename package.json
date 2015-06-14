@@ -1,9 +1,9 @@
 {
   "name": "keystrap",
-  "title": "KeyStrap",
+  "title": "KeyStrap for Brackets",
   "description": "Add Bootstrap 3 HTML5 Snippets to your page by hitting keyboard key-combos.",
   "homepage": "https://github.com/AsherPeruscini/KeyStrap",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "author": "Asher Peruscini (https://github.com/AsherPeruscini/KeyStrap)",
   "license": "MIT",
   "engines": {
